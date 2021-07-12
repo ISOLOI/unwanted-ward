@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "UnwantedWard",
+  "siteUrl": "https://nifty-mestorf-6e726f.netlify.app",
+  "description": "UnwantedWard - A blog about my life as an adopted kid, that never knew of a family I now have.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm Jolie!",
+    "description": "My life is CRAZY. Unwanted Ward is a site about a person who has been through the adoption process and did not see the bright side of it."
   }
 }
